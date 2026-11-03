@@ -1,3 +1,0 @@
-testiiiiiiiiiiiiii
-
-git add -p 2
